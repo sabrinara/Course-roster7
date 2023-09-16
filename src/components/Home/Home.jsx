@@ -51,7 +51,7 @@ export default function Home() {
     return (
         <>
        
-        <div className="max-w-7xl mx-auto flex gap-3 mt-6 justify-between px-2 pb-10">
+        <div className="w-[100%] mx-auto flex gap-3 mt-6 justify-between px-2 pb-10">
             <div className="grid md:grid-cols-3 gap-5">
                 {allCourses.map((course) => (
 
