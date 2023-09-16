@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 import Cart from "../Cart/cart";
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 export default function Home() {
     const [allCourses, setAllCourses] = useState([]);
@@ -21,7 +23,7 @@ export default function Home() {
         let price = course.price;
 
         if (isExist) {
-          return alert("Already booked");
+          return toast("Already Selected");
         }
         else {
           selectedCourses.forEach(item => {
@@ -32,7 +34,7 @@ export default function Home() {
           const remaining = 20 - hour;
     
           if (hour > 20) {
-            return alert("No more credit");
+            return toast("No more credit!!");
           }
           else {
             
@@ -47,6 +49,8 @@ export default function Home() {
       };
 
     return (
+        <>
+       
         <div className="max-w-7xl mx-auto flex gap-3 mt-6 justify-between px-2 pb-10">
             <div className="grid md:grid-cols-3 gap-5">
                 {allCourses.map((course) => (
@@ -82,6 +86,8 @@ export default function Home() {
                 totalPrice = {totalPrice}
                 ></Cart>
             </div>
-        </div>
+           
+        </div>  <ToastContainer />
+        </>
     )
 }
