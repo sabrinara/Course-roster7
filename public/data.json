@@ -2,10 +2,10 @@
     {
         "id": 1,
         "image": "https://i.ibb.co/Drj16Ck/Rectangle-2-2.png",
-        "title": "Introduction to C Programming ",
+        "title": "Introduction to C Programming",
         "price": 15000,
-        "description": "This is a comprehensive course covering various topics.",
-        "credit_hour": 1
+        "description": " C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972. It is a very popular language, despite being old.",
+        "credit": 1
         
     },
     {
@@ -14,7 +14,7 @@
         "title": "Introduction to Algorithms",
         "price": 25000,
         "description": "A specialized course designed for advanced learners.",
-        "credit_hour": 2
+        "credit": 2
         
     },
     {
@@ -23,7 +23,7 @@
         "title": "Introduction to C++ for DSA",
         "price": 10000,
         "description": "An introductory course suitable for beginners.",
-        "credit_hour": 10 
+        "credit": 10 
         
     },
     {
@@ -32,7 +32,7 @@
         "title": "Basic Data Structure",
         "price": 35000,
         "description": "An in-depth course with hands-on projects.",
-        "credit_hour": 5 
+        "credit": 5 
         
     },
     {
@@ -41,7 +41,7 @@
         "title": "Introduction to OOP Python",
         "price": 19000,
         "description": "A short course focusing on key concepts.",
-        "credit_hour": 5
+        "credit": 5
         
     },
     {
@@ -50,7 +50,7 @@
         "title": "Software Engineering",
         "price": 23000,
         "description": "A specialized course for professionals in the field.",
-        "credit_hour": 2
+        "credit": 2
         
     },
     {
@@ -59,7 +59,7 @@
         "title": "AWS, Cloud Computing",
         "price":35000,
         "description": "A practical course with real-world applications.",
-        "credit_hour": 5
+        "credit": 5
         
     },
     {
@@ -68,7 +68,7 @@
         "title": "Database(MySQL)",
         "price": 19000,
         "description": "An advanced course for experts in the field.",
-        "credit_hour": 5
+        "credit": 5
         
     },
     {
@@ -77,6 +77,6 @@
         "title": "Problem-Solving Part",
         "price": 23000,
         "description": "A comprehensive course suitable for all skill levels.",
-        "credit_hour": 2
+        "credit": 2
     }
 ]
