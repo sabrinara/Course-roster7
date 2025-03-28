@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "https://i.ibb.co/Drj16Ck/Rectangle-2-2.png",
+        "image": "https://i.ibb.co.com/6cp2fgCM/Rectangle-2-2.png",
         "title": "Introduction to C Programming",
         "price": 15000,
         "description": " C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972. It is a very popular language, despite being old.",
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "image": "https://i.ibb.co/wKGnxmr/Rectangle-2-3.png",
+        "image": "https://i.ibb.co.com/KpRXMrN3/Rectangle-2-3.png",
         "title": "Introduction to Algorithms",
         "price": 25000,
         "description": "Algorithm is an important part of computational complexity theory, which provides theoretical estimation for the required resources of an algorithm to solve a specific computational problem. ",
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "image": "https://i.ibb.co/9nCQX2C/Rectangle-2-4.png",
+        "image": "https://i.ibb.co.com/kg9Pt6NM/Rectangle-2-4.png",
         "title": "Introduction to C++ for DSA",
         "price": 10000,
         "description": "C++ is one of the world's most popular programming languages. C++ can be found in today's operating systems, Graphical User Interfaces, and embedded systems. C++ is an object-oriented programming language.",
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "image": "https://i.ibb.co/Gp4HVS1/Rectangle-3.png",
+        "image": "https://i.ibb.co.com/dsTLRkQq/Rectangle-3.png",
         "title": "Basic Data Structure",
         "price": 35000,
         "description": "A data structure is a way of organizing and storing data in a computer so that it can be accessed and modified efficiently.",
@@ -37,7 +37,7 @@
     },
     {
         "id": 5,
-        "image": "https://i.ibb.co/jhsw1XH/Rectangle-2.png",
+        "image": "https://i.ibb.co.com/DHY9HYSj/Rectangle-2.png",
         "title": "Introduction to OOP Python",
         "price": 19000,
         "description": "In Python, object-oriented Programming (OOPs) is a programming paradigm that uses objects and classes in programming. It aims to implement real-world entities like inheritance, polymorphisms, encapsulation, etc. in the programming.",
@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "image": "https://i.ibb.co/7N4PVVK/Rectangle-2-5.png",
+        "image": "https://i.ibb.co.com/5hL1zrdC/Rectangle-2-5.png",
         "title": "Software Engineering",
         "price": 23000,
         "description": "Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications.",
@@ -55,7 +55,7 @@
     },
     {
         "id": 7,
-        "image": "https://i.ibb.co/7G48v9n/Rectangle-3-1.png",
+        "image": "https://i.ibb.co.com/4g228147/Rectangle-3-1.png",
         "title": "AWS, Cloud Computing",
         "price":35000,
         "description": "The AWS Cloud encompasses a broad set of global cloud-based products that includes compute, storage, databases, analytics, networking, mobile, developer tools, management tools, IoT, security, and enterprise applications: on-demand, available in seconds, with pay-as-you-go pricing.",
@@ -64,7 +64,7 @@
     },
     {
         "id": 8,
-        "image": "https://i.ibb.co/N9TPyq1/Rectangle-2-1.png",
+        "image": "https://i.ibb.co.com/TMrxFZVN/Rectangle-2-1.png",
         "title": "Database(MySQL)",
         "price": 19000,
         "description": "MySQL is a relational database management system (RDBMS) developed by Oracle that is based on structured query language (SQL). A database is a structured collection of data. It may be anything from a simple shopping list to a picture gallery or a place to hold the vast amounts of information in a corporate network.",
@@ -73,7 +73,7 @@
     },
     {
         "id": 9,
-        "image": "https://i.ibb.co/KxSsZ5q/Rectangle-2-6.png",
+        "image": "https://i.ibb.co.com/rKZTYkS4/Rectangle-2-6.png",
         "title": "Problem-Solving Part",
         "price": 23000,
         "description": "Problem solving is the process of identifying a problem, developing possible solution paths, and taking the appropriate course of action.",
